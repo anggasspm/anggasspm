@@ -6,17 +6,24 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="900" />
 
-
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=9D8CFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+TypeScript;Building+pixel-perfect+UIs" alt="Typing SVG" />
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
+<div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="360" />
 
 ### `> whoami`
+</div>
+
 
 ```js
 const anggasspm = {
@@ -27,8 +34,13 @@ const anggasspm = {
 };
 ```
 
+<br/>
+
 ---
 
+<br/>
+
+<div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="360" />
 
 ### `> tech --list`
@@ -42,11 +54,20 @@ const anggasspm = {
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E)
 
+</div>
+
+<br/>
+
 ---
 
+<br/>
+
+<div>
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400"/>
 
 ### `> stats --user anggasspm`
+
+</div>
 
 <div align="center">
 
@@ -55,7 +76,11 @@ const anggasspm = {
 
 </div>
 
+<br/>
+
 ---
+
+<br/>
 
 ### `> contact`
 
