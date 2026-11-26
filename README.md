@@ -1,55 +1,41 @@
-<div align="center">
+<h1 align="center">Anggas</h1>
 
-  
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWpzang5M21wdmpka3g2bWJtd2UxamMyMGU1dzFwaHRrZjdlMnh4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B2d6TkMQcMKqEpr0i3/giphy.gif" width="500" alt="Omori White Space"/>
+<p align="center">Software Developer · Web, Mobile, API</p>
 
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=32&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Welcome+to+White+Space." alt="Welcome to White Space" />
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=4000&pause=3000&color=E8E8E8&center=true&vCenter=true&width=600&lines=You+have+been+coding+here+for+as+long+as+you+can+remember." alt="You have been coding" />
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&width=100%25" alt="divider" />
-
-<br />
-
-<h3>Sketchbook</h3>
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" width="200" alt="JS" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" width="200" alt="TS" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" width="136.5" alt="React" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" width="226.3" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" width="159.5" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" width="139" alt="MySQL" />
-  <br />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" width="170" alt="Postman" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" width="137.5" alt="Figma" />
-  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white" width="257" alt="Android Studio" />
+<p align="center">
+<a href="mailto:anggasspm@gmail.com"><img src="https://img.shields.io/badge/Email-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://linkedin.com/in/anggasspm"><img src="https://img.shields.io/badge/LinkedIn-1f2328?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<br />
+---
 
-<h3>Red Hands</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=anggasspm&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" width="495" alt="GitHub Stats" />
-<br /><br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anggasspm&background=000000&border=ffffff&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+### About
 
+I build web applications, mobile apps, and the APIs that connect them, with a focus on clean structure and maintainable code.
 
-<br /><br />
+### Tech Stack
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=28&duration=4000&pause=3000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Leaving+White+Space..." alt="Leaving White Space" />
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=4000&pause=3000&color=E8E8E8&center=true&vCenter=true&width=700&lines=Waiting+for+something+to+happen%3F+Let's+build+it." alt="Waiting for something" />
+| | |
+|:--|:--|
+| **Frontend** | <img src="https://img.shields.io/badge/JavaScript-1f2328?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-1f2328?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-1f2328?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/Tailwind_CSS-1f2328?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> |
+| **Backend** | <img src="https://img.shields.io/badge/Node.js-1f2328?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/MySQL-1f2328?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"> |
+| **Mobile** | <img src="https://img.shields.io/badge/Java-1f2328?style=flat-square&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/Android-1f2328?style=flat-square&logo=android&logoColor=white" alt="Android"> |
+| **Tools** | <img src="https://img.shields.io/badge/Figma-1f2328?style=flat-square&logo=figma&logoColor=white" alt="Figma"> <img src="https://img.shields.io/badge/Postman-1f2328?style=flat-square&logo=postman&logoColor=white" alt="Postman"> <img src="https://img.shields.io/badge/Git-1f2328?style=flat-square&logo=git&logoColor=white" alt="Git"> |
 
-<p>
-  <a href="mailto:anggasspm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/anggasspm">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+### Projects
+
+| Project | Language |
+|:--|:--|
+| [job-radar](https://github.com/anggasspm/job-radar) | JavaScript |
+| [lostfound](https://github.com/anggasspm/lostfound) | JavaScript |
+| [LibraryHubDB](https://github.com/anggasspm/LibraryHubDB) | JavaScript |
+| [Porsche](https://github.com/anggasspm/Porsche) | TypeScript |
+| [ResidentEvilApp](https://github.com/anggasspm/ResidentEvilApp) | Java |
+| [api-gateway-omori-undertale](https://github.com/anggasspm/api-gateway-omori-undertale) | Blade |
+
+### GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anggasspm&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9da7b3&icon_color=9da7b3" height="160" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggasspm&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9da7b3" height="160" alt="Top languages">
 </p>
-
-<br />
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=4000&pause=3000&color=B0B0B0&center=true&vCenter=true&width=300&lines=Everything+is+going+to+be+okay." alt="Everything is going to be okay" />
-
-</div>
